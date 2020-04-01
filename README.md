@@ -3,7 +3,7 @@
 
 More detailed info contained in the Powerpoint
 
-Materials:
+##Materials:
 1.5mm aluminum armature wire - https://tinyurl.com/yx7r4c38
 
 1/8" Elastic cord (or other strap material) - https://tinyurl.com/tf4ujzb
