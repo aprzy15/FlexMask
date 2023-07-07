@@ -1,8 +1,6 @@
 # FlexMask
 Andrew Przyjemski
 
-awp5357@psu.edu
-
 3D printed mask combined with filter media to be an N95 analog
 
 More detailed info contained in the Powerpoint
