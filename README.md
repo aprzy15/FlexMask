@@ -1,6 +1,8 @@
 # FlexMask
 Andrew Przyjemski
 
+https://www.thingiverse.com/thing:4258638
+
 3D printed mask combined with filter media to be an N95 analog
 
 More detailed info contained in the Powerpoint
